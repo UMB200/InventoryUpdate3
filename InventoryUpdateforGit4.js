@@ -1,4 +1,4 @@
-function updateInventory(arr1, arr2) {
+function updateInventory54(arr1, arr2) {
   //iterate through both inventory records
   for(var i = 0; i < arr2.length; i++){
   //check if inventory name exists 
